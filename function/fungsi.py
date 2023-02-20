@@ -2,7 +2,7 @@ import os
 import time
 import datetime
 from tabulate import tabulate
-from function.play import main
+from main import main
 data = {}
 #FUNCTION**
 def tambah_data(nim,nama,kelas,prodi,lahir):

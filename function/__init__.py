@@ -1,1 +1,1 @@
-from function import fungsi,main
+from function import fungsi
